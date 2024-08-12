@@ -1,0 +1,1 @@
+This GitHub repository showcases a variety of projects in Python, Data Science, Analytics, Artificial Intelligence, Machine Learning, and Generative AI. Each project highlights different aspects, from Python scripting and data analysis to advanced machine learning models and generative AI techniques.
